@@ -1,0 +1,19 @@
+Section,Skill,Score/Status
+--- Resume Skills ---,,
+Resume,data structures,1.0
+Resume,sql,0.41
+Resume,algorithms,1.0
+Resume,linux,0.42
+Resume,javascript,0.4
+Resume,git,1.0
+Resume,html,0.3
+Resume,css,0.3
+Resume,java,1.0
+Resume,python,1.0
+--- Job Description Coverage ---,,
+JD,data structures,
+JD,algorithms,
+JD,c++,
+JD,git,
+JD,java,
+JD,python,

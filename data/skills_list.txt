@@ -1,0 +1,29 @@
+python
+java
+c++
+machine learning
+deep learning
+nlp
+communication
+teamwork
+sql
+mysql
+mongodb
+data structures
+algorithms
+tensorflow
+pytorch
+flask
+streamlit
+html
+css
+javascript
+linux
+git
+docker
+cloud computing
+opencv
+computer vision
+pandas
+numpy
+scikit-learn
